@@ -62,3 +62,36 @@ body {
     border: 5px solid white;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
+
+.about-section {
+    background-color: #4F4D9D;  /* changed from #AB85DC to darker purple */
+    color: white;
+    padding: 120px 10%;
+    display: flex;
+    justify-content: center;
+    border-top: 5px solid #AB85DC;
+}
+
+.about-container {
+    max-width: 900px;
+}
+
+.about-container h2 {
+    font-size: 2.8rem;
+    margin-bottom: 40px;
+    font-family: Georgia, serif;
+    color: white;
+    text-align: center;
+}
+
+.about-container p {
+    font-size: 1.15rem;
+    line-height: 1.9;
+    margin-bottom: 25px;
+    color: rgba(255, 255, 255, 0.95);
+    text-align: justify;
+}
+
+
+
+
