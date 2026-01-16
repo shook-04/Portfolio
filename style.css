@@ -133,3 +133,37 @@ body {
     font-weight: bold;
     text-align: center;
 }
+
+.projects-section {
+    background-color: #4F4D9D;
+    color: white;
+    padding: 120px 10%;
+}
+
+.projects-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.projects-container h2 {
+    font-size: 2.8rem;
+    margin-bottom: 60px;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+.project {
+    margin-bottom: 50px;
+}
+
+.project h3 {
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+    color: #ffffff;
+}
+
+.project p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: rgba(255, 255, 255, 0.95);
+}
