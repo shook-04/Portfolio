@@ -212,3 +212,51 @@ body {
     margin-bottom: 10px;
 }
 
+.contact-section {
+    background-color: #4F4D9D;
+    color: white;
+    padding: 120px 10%;
+    text-align: center;
+}
+
+.contact-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.contact-container h2 {
+    font-size: 2.8rem;
+    margin-bottom: 30px;
+    font-family: Georgia, serif;
+}
+
+.contact-container p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    margin-bottom: 50px;
+}
+
+.contact-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.contact-btn {
+    text-decoration: none;
+    color: #4F4D9D;
+    background-color: #ffffff;
+    padding: 14px 32px;
+    border-radius: 30px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.contact-btn:hover {
+    background-color: #AB85DC;
+    color: white;
+    transform: translateY(-3px);
+}
+
