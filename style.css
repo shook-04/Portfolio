@@ -167,3 +167,48 @@ body {
     line-height: 1.8;
     color: rgba(255, 255, 255, 0.95);
 }
+
+.education-section {
+    background-color: #AB85DC;
+    color: white;
+    padding: 120px 10%;
+}
+
+.education-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.education-container h2 {
+    font-size: 2.8rem;
+    margin-bottom: 60px;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+.education-item {
+    margin-bottom: 50px;
+}
+
+.education-item h3 {
+    font-size: 1.6rem;
+    margin-bottom: 8px;
+}
+
+.education-item h4 {
+    font-size: 1.2rem;
+    font-weight: normal;
+    margin-bottom: 15px;
+    opacity: 0.9;
+}
+
+.education-item ul {
+    padding-left: 20px;
+}
+
+.education-item li {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 10px;
+}
+
